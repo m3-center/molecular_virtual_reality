@@ -1,0 +1,9 @@
+ChimeraX_Ummbas_Anaglyph.egg-info/PKG-INFO
+ChimeraX_Ummbas_Anaglyph.egg-info/SOURCES.sync-conflict-20240628-172643-Q2Q7WI7.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/SOURCES.sync-conflict-20240702-102959-Q2Q7WI7.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/SOURCES.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/dependency_links.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/requires.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/top_level.txt
+src/__init__.py
+src/tool.py

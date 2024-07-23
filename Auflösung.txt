@@ -1,0 +1,2 @@
+1900 x 1200 - 7.5mm    angstrom = 1.5
+13506 x 4320 - 75mm    angstroms = 0.15

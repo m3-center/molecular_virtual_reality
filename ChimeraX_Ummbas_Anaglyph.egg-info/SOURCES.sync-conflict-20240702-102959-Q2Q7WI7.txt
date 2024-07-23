@@ -1,0 +1,8 @@
+ChimeraX_Ummbas_Anaglyph.egg-info/PKG-INFO
+ChimeraX_Ummbas_Anaglyph.egg-info/SOURCES.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/dependency_links.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/requires.txt
+ChimeraX_Ummbas_Anaglyph.egg-info/top_level.txt
+src/__init__.py
+src/anaglyph.py
+src/anaglyphCamera.py
